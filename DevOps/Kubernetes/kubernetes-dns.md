@@ -1,3 +1,10 @@
+---
+tags:
+  - DevOps
+  - Kubernetes
+  - K8S
+  - Networking
+---
 # Kubernetes DNS
 
 ## Custom DNS Settings

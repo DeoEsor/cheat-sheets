@@ -1,3 +1,10 @@
+---
+tags:
+  - DevOps
+  - Kubernetes
+  - K3S
+  - Installation
+---
 # Install K3S in High Availability Mode
 ## Install Database
 Install MariaDB ([[mariadb]]).

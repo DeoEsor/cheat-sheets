@@ -1,3 +1,9 @@
+---
+tags:
+  - DevOps
+  - Kubernetes
+  - K3S
+---
 # K3S
 Lightweight Kubernetes ([[kubernetes]]). Production ready, easy to install, half the memory, all in a binary less than 100 MB.
 

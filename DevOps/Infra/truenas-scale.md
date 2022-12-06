@@ -1,3 +1,8 @@
+---
+tags:
+  - Infrastructure
+  - DevOps
+---
 # TrueNAS Scale
 WIP
 

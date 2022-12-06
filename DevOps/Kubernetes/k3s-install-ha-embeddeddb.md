@@ -1,3 +1,10 @@
+---
+tags:
+  - DevOps
+  - Kubernetes
+  - K3S
+  - Installation
+---
 # Install K3S in High Availability Mode with an embedded Database
 ## Install first Server
 ```bash

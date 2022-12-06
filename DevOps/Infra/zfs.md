@@ -1,3 +1,9 @@
+---
+tags:
+  - Infrastructure
+  - DevOps
+  - Storage
+---
 # ZFS
 WIP
 
