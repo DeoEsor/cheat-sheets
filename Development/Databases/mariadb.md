@@ -1,3 +1,8 @@
+---
+tags:
+  - Database
+  - Installation
+---
 # MariaDB Cheat-Sheet
 
 ## Install MariaDB on Ubuntu 20.04 LTS

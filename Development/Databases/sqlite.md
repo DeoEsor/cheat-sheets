@@ -1,3 +1,8 @@
+---
+tags:
+  - Database
+  - Installation
+---
 # SQLite Cheat-Sheet
 
 SQLite is a relational database contained in a C library. In contrast to many other databases, SQLite is not a client-server database engine. Rather, it's embedded into an end program.
