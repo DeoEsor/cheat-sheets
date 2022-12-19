@@ -1,0 +1,7 @@
+
+## Tools Made of CSS
+
+| Type | Name | Description | Star | Tags | Badges |
+| --- | --- | --- | --- | --- | --- |
+|Utils|[Assetnote Wordlists](https://github.com/assetnote/wordlists)|Automated & Manual Wordlists provided by Assetnote|![](https://img.shields.io/github/stars/assetnote/wordlists?label=%20)|[`wordlist`](/categorize/tags/wordlist.md) [`documents`](/categorize/tags/documents.md)|![linux](linux.png.md)![macos](/images/apple.png)![windows](/images/windows.png)[![CSS](/images/css.png)](/categorize/langs/CSS.md)|
+
