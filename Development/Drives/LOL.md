@@ -1,1 +1,1 @@
-![[Pasted image 20221213161207.png]]
+![[Drive.png]]
